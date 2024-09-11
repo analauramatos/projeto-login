@@ -12,6 +12,8 @@ Projeto criado como parte avaliativa da disciplina de Fundamentos de desenvolvim
 O projeto consiste em criarmos uma tela de login simples utilizando html e css3.
  
 ### Resultado do projeto
+
+![Resultado final do projeto](img/resultadofinal.png)
  
 #### Tela login
  
@@ -69,11 +71,6 @@ Veja a imagem a seguir:
  
 * `box-shadow` -  é utilizado para adicionar efeitos de sombra em volta de um elemento. Você pode especificar mais de um efeito, os separando com virgulas.
  
- 
- 
-#### RESULTADO FINAL DO PROJETO
- 
-![](img/resultadofinal.png)
  
 ### estilização
   O projeto foi estilizado, utilizando css, foi criado um arquivo
