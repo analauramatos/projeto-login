@@ -71,9 +71,9 @@ Veja a imagem a seguir:
  
  
  
-#### RESULTADO
+#### RESULTADO FINAL DO PROJETO
  
-![Resultado final do projeto](img/resultadofinal.png)
+![](img/resultadofinal.png)
  
 ### estilização
   O projeto foi estilizado, utilizando css, foi criado um arquivo
