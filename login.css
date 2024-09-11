@@ -5,9 +5,9 @@ body {
 }
  
 body {
-    background-image: linear-gradient(150deg, #f0398e 0, #f792cd 16.67%, #f12a7d 33.33%, hsl(342, 81%, 59%) 50%, #d00057 66.67%, hsl(327, 87%, 46%) 83.33%, hsl(340, 80%, 54%) 100%);
-    display: flex;
-    /*Comportamento do elemento na pagina*/
+    background-image: linear-gradient(150deg, #bf8eec 0, #940c99 16.67%, #b26cc0 33.33%, hsl(276, 50%, 56%) 50%, #8f62e2 66.67%, hsl(295, 66%, 50%) 83.33%, hsl(249, 66%, 70%) 100%);
+    display: flex;/*Comportamento do elemento na pagina*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
  
 /* Estilização do container */
@@ -20,41 +20,16 @@ body {
 }
  
 .form {
-    background-image: linear-gradient(150deg, #fc5998 0, #f093ba 16.67%, #e41e7a 33.33%, #fd25a3 50%, #f32675 66.67%, #c90064 83.33%, #c2005b 100%);
-    background-color: #fa3d95;
+    background-image: linear-gradient(150deg, #9f36a3 0, #8818e4 16.67%, #7d26a5 33.33%, #9a69c2 50%, #a13eda 66.67%, #b796dd 83.33%, #bb49f0 100%);
+    background-color: #953dfa;
     padding: 30px;
     padding-top: 0;
     border-radius: 20px;
-    color: rgb(255, 0, 149);
+    color: rgb(0, 0, 0);
     box-shadow: 0 0 10px black;
 }
  
 h3 {
     text-align: center;
 }
-<!DOCTYPE html> <html>   <head>     <meta c... por YASMIM DA SILVA FARIAYASMIM DA SILVA FARIA12:41
-<!DOCTYPE html>
-<html>
  
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Entrar</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='login.css'>
-</head>
- 
-<body>
-    <div class="container">
-        <form action="" class="form">
-            <label for="">E-mail</label><br>
-            <input type="email" name="" id=""><br>
-            <label for="">Senha</label><br>
-            <input type="password" name="" id=""><br><br>
-            <button type="button">Entrar</button>
-        </form>
-    </div>
-</body>
- 
-</html>
-tem menu de contexto
