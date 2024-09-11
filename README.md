@@ -73,11 +73,7 @@ Veja a imagem a seguir:
  
 #### RESULTADO
  
- 
-![Resultado final do projeto](img/resultado.png)
- 
- 
- 
+![Resultado final do projeto](img/resultadofinal.png)
  
 ### estilização
   O projeto foi estilizado, utilizando css, foi criado um arquivo
